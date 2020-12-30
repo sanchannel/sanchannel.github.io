@@ -18,12 +18,12 @@
 #### 18:00-22:00/Just Now Crew
 
 # St.Pax Cafe
-#### 21:00〜 22:30/Wacky
-#### 22:30〜24:00/NAKAMULLAH
-#### 24:00〜1:30/NORIZO
-#### 1:30〜3:00/winnie the pooh
-#### 3:00〜4:30/natsumi(NEW WAVE)
-#### 4:30〜6:00/櫻井 響
+#### 21:00-22:30/Wacky
+#### 22:30-24:00/NAKAMULLAH
+#### 24:00-1:30/NORIZO
+#### 1:30-3:00/winnie the pooh
+#### 3:00-4:30/natsumi(NEW WAVE)
+#### 4:30-6:00/櫻井 響
 
 # Ichi Bar
 #### 22:00 -23:00/IchI
